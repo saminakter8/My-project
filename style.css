@@ -48,15 +48,15 @@ span{
     background-size:18%;
     
 }
-#bg6{
-    background-image:url(shapes/shape-7.png);
-    background-repeat:no-repeat;
-    background-size:18%;
-    
-
+#last{
+    text-align:center;
 }
-#image{
-    padding:50%;
+.need{
+    width:65%;
+    box-shadow:5px 5px 7px rgb(189, 159, 189);
+    border-image-slice:1;
+    border-radius:10px;
+    
 }
 
 footer{
