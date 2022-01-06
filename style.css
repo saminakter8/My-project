@@ -23,6 +23,7 @@ span{
         text-decoration:none;
         background-image:linear-gradient(pink,rgb(47, 47, 158));
         padding:10px 15px;
+        border-radius:10px;
     }
 .short{
     background-color:rgb(230, 236, 238);
@@ -39,6 +40,23 @@ span{
 }
 .s3{
     background-color:rgb(236, 206, 236);
+}
+
+.bg7{
+    background-image:url(shapes/shape-7.png);
+    background-repeat:no-repeat;
+    background-size:18%;
+    
+}
+#bg6{
+    background-image:url(shapes/shape-7.png);
+    background-repeat:no-repeat;
+    background-size:18%;
+    
+
+}
+#image{
+    padding:50%;
 }
 
 footer{
